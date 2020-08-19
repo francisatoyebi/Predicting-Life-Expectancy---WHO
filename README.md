@@ -11,5 +11,6 @@ The data is gotten from [kaggle](https://www.kaggle.com/kumarajarshi/life-expect
 - Model training and Interpretation
 
 ![Progression of Life Expectancy per year](https://github.com/francisatoyebi/Predicting-Life-Expectancy---WHO/blob/master/Images/progression.png)
+
 more images [here](https://github.com/francisatoyebi/Predicting-Life-Expectancy---WHO/tree/master/Images)
 # Enjoy!
